@@ -43,6 +43,3 @@ Facilidade de monitorar, operar e otimizar os recursos na nuvem, muitas vezes vi
 Ferramentas de automação (ex.: Terraform, Ansible) e observabilidade (ex.: Prometheus, CloudWatch) são essenciais.
 
 Conclusão: Esses atributos são fundamentais para entender como a nuvem oferece eficiência, resiliência e adaptabilidade, atendendo desde startups até grandes empresas.
-
-Painel do Azure
-"Imgs/PainelAzure.png"
