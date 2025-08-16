@@ -1,4 +1,4 @@
-##Nessa etapa do curso, eu aprendi sobre:
+Nessa etapa do curso, eu aprendi sobre:
 
 Nuvem Privada: Infraestrutura de nuvem dedicada a uma única organização, oferecendo maior controle, segurança e personalização. Pode ser hospedada localmente (on-premises) ou por um provedor terceirizado.
 
